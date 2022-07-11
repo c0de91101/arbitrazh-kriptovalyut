@@ -1,16 +1,8 @@
 # Восстановление финансов через (HNP) Hidden Number Problem
 
-## Architecture (need update)
-![Architecture](logo.png)
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":293,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://бизнес-идеея.рф/wp-content/uploads/2022/07/001_001BTC-1024x576.png" alt="" class="wp-image-293"/></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
+![logo](logo.png)
 
-<!-- wp:paragraph -->
-<p> </p>
-<!-- /wp:paragraph -->
+<!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
 <p>С тенденцией развития индустрии цифровых валют появилось новое направление в бизнесе это покупка и продажа криптовалютных монет BTC и ETH, но помимо этого появилась ещё одна довольна новая и прибыльная ниша это восстановление потерянных криптовалютных кошельков с балансом монет. </p>
@@ -32,11 +24,7 @@
 <p><strong><a href="https://bitinfocharts.com/ru/top-100-dormant_7y-bitcoin-addresses.html" target="_blank" rel="noreferrer noopener">https://bitinfocharts.com/ru/top-100-dormant_7y-bitcoin-addresses.html</a></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://бизнес-идеея.рф/wp-content/uploads/2022/07/012.png" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
+![BitInfoChart](BitInfoChart.png)
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><em>В этих Биткоин Aдресах более 7 лет не перемещались монеты BTC. </em></p>
