@@ -1,5 +1,7 @@
 # Восстановление финансов через (HNP) Hidden Number Problem
 
+## Architecture (need update)
+![Architecture](logo.png)
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":293,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="http://бизнес-идеея.рф/wp-content/uploads/2022/07/001_001BTC-1024x576.png" alt="" class="wp-image-293"/></figure>
