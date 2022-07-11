@@ -1,4 +1,4 @@
-# Восстановление Биткоин Кошелька Recovery Bitcoin Wallet
+# биток
 
 ![logo](logo.png)
 
